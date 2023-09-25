@@ -1,5 +1,5 @@
 # 💫 Hey 👋 What's up?:
-Olá, Mundo! Sou o Elyelson Silva<br>-Desenvolvedor Full Stack<br>-Design Gráfico & Motion(Animação 2d/3d)US/UX<br>-Esp Gestão de Mídias Sociais e Tráfego<br>🌱Técnico de Redes e Informática; Programador web<br>((Manutençção em Sistemas, Hardware & Infra))<br><br>🤝 Fato interessante: Sou Geek e Nerd, Afficcionados<br>por Séries de sci-fi e vida Extraterreste;<br><br>💬 ⚡ Bora Codar o Futuro juntos!
+Olá, Mundo! Sou o Elyelson Santos da Silva<br>-Desenvolvedor Full Stack<br>-Design Gráfico & Motion((Animação 2d/3d,US/UX))<br>-Esp Gestão de Mídias Sociais e Tráfego<br>🌱Técnico de Redes e Informática; Programador web<br>((Manutençção em Sistemas, Hardware & Infra))<br><br>🤝 Fato interessante: Sou Geek e Aficcionado<br>por Séries de sci-fi e vida Extraterreste;<br><br>🔭 🌱 Estou aprendendo mais sobre IA<br><br>💬 ⚡ Bora Codar o Futuro juntos!
 
 
 ## 🌐 Socials:
@@ -43,4 +43,4 @@ Olá, Mundo! Sou o Elyelson Silva<br>-Desenvolvedor Full Stack<br>-Design Gráfi
 ---
 [![](https://visitcount.itsvg.in/api?id=Elyelsonsilva&icon=5&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- PFeito com <3 por Elyelson -->
